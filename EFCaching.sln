@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.Data", "EF.Data\EF.Data.csproj", "{C0D426A6-AB8D-48A3-ABFB-BC534103A124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.Test", "EF.Test\EF.Test.csproj", "{A389C6B3-4519-44EE-89E9-B720F55DE89A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0D426A6-AB8D-48A3-ABFB-BC534103A124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0D426A6-AB8D-48A3-ABFB-BC534103A124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0D426A6-AB8D-48A3-ABFB-BC534103A124}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{C0D426A6-AB8D-48A3-ABFB-BC534103A124}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C0D426A6-AB8D-48A3-ABFB-BC534103A124}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C0D426A6-AB8D-48A3-ABFB-BC534103A124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0D426A6-AB8D-48A3-ABFB-BC534103A124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0D426A6-AB8D-48A3-ABFB-BC534103A124}.Release|ARM.ActiveCfg = Release|Any CPU
+		{C0D426A6-AB8D-48A3-ABFB-BC534103A124}.Release|x64.ActiveCfg = Release|Any CPU
+		{C0D426A6-AB8D-48A3-ABFB-BC534103A124}.Release|x86.ActiveCfg = Release|Any CPU
+		{A389C6B3-4519-44EE-89E9-B720F55DE89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A389C6B3-4519-44EE-89E9-B720F55DE89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A389C6B3-4519-44EE-89E9-B720F55DE89A}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{A389C6B3-4519-44EE-89E9-B720F55DE89A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A389C6B3-4519-44EE-89E9-B720F55DE89A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A389C6B3-4519-44EE-89E9-B720F55DE89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A389C6B3-4519-44EE-89E9-B720F55DE89A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A389C6B3-4519-44EE-89E9-B720F55DE89A}.Release|ARM.ActiveCfg = Release|Any CPU
+		{A389C6B3-4519-44EE-89E9-B720F55DE89A}.Release|x64.ActiveCfg = Release|Any CPU
+		{A389C6B3-4519-44EE-89E9-B720F55DE89A}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
